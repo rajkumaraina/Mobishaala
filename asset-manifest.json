@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Mobishaala/static/css/main.68f580d6.css",
+    "main.js": "/Mobishaala/static/js/main.559ef179.js",
+    "reactPlayerYouTube.js": "/Mobishaala/static/js/reactPlayerYouTube.4e318489.chunk.js",
+    "reactPlayerSoundCloud.js": "/Mobishaala/static/js/reactPlayerSoundCloud.80d057d8.chunk.js",
+    "reactPlayerVimeo.js": "/Mobishaala/static/js/reactPlayerVimeo.b588845b.chunk.js",
+    "reactPlayerMux.js": "/Mobishaala/static/js/reactPlayerMux.b8509697.chunk.js",
+    "reactPlayerFacebook.js": "/Mobishaala/static/js/reactPlayerFacebook.3ef9e13a.chunk.js",
+    "reactPlayerStreamable.js": "/Mobishaala/static/js/reactPlayerStreamable.fb453d08.chunk.js",
+    "reactPlayerWistia.js": "/Mobishaala/static/js/reactPlayerWistia.82db175c.chunk.js",
+    "reactPlayerTwitch.js": "/Mobishaala/static/js/reactPlayerTwitch.ce6e17cf.chunk.js",
+    "reactPlayerDailyMotion.js": "/Mobishaala/static/js/reactPlayerDailyMotion.2b03eee8.chunk.js",
+    "reactPlayerMixcloud.js": "/Mobishaala/static/js/reactPlayerMixcloud.b937b285.chunk.js",
+    "reactPlayerVidyard.js": "/Mobishaala/static/js/reactPlayerVidyard.abf0060f.chunk.js",
+    "reactPlayerKaltura.js": "/Mobishaala/static/js/reactPlayerKaltura.fb96452a.chunk.js",
+    "reactPlayerFilePlayer.js": "/Mobishaala/static/js/reactPlayerFilePlayer.90886709.chunk.js",
+    "reactPlayerPreview.js": "/Mobishaala/static/js/reactPlayerPreview.3f4ccd11.chunk.js",
+    "static/js/453.6e15ef79.chunk.js": "/Mobishaala/static/js/453.6e15ef79.chunk.js",
+    "index.html": "/Mobishaala/index.html",
+    "main.68f580d6.css.map": "/Mobishaala/static/css/main.68f580d6.css.map",
+    "main.559ef179.js.map": "/Mobishaala/static/js/main.559ef179.js.map",
+    "reactPlayerYouTube.4e318489.chunk.js.map": "/Mobishaala/static/js/reactPlayerYouTube.4e318489.chunk.js.map",
+    "reactPlayerSoundCloud.80d057d8.chunk.js.map": "/Mobishaala/static/js/reactPlayerSoundCloud.80d057d8.chunk.js.map",
+    "reactPlayerVimeo.b588845b.chunk.js.map": "/Mobishaala/static/js/reactPlayerVimeo.b588845b.chunk.js.map",
+    "reactPlayerMux.b8509697.chunk.js.map": "/Mobishaala/static/js/reactPlayerMux.b8509697.chunk.js.map",
+    "reactPlayerFacebook.3ef9e13a.chunk.js.map": "/Mobishaala/static/js/reactPlayerFacebook.3ef9e13a.chunk.js.map",
+    "reactPlayerStreamable.fb453d08.chunk.js.map": "/Mobishaala/static/js/reactPlayerStreamable.fb453d08.chunk.js.map",
+    "reactPlayerWistia.82db175c.chunk.js.map": "/Mobishaala/static/js/reactPlayerWistia.82db175c.chunk.js.map",
+    "reactPlayerTwitch.ce6e17cf.chunk.js.map": "/Mobishaala/static/js/reactPlayerTwitch.ce6e17cf.chunk.js.map",
+    "reactPlayerDailyMotion.2b03eee8.chunk.js.map": "/Mobishaala/static/js/reactPlayerDailyMotion.2b03eee8.chunk.js.map",
+    "reactPlayerMixcloud.b937b285.chunk.js.map": "/Mobishaala/static/js/reactPlayerMixcloud.b937b285.chunk.js.map",
+    "reactPlayerVidyard.abf0060f.chunk.js.map": "/Mobishaala/static/js/reactPlayerVidyard.abf0060f.chunk.js.map",
+    "reactPlayerKaltura.fb96452a.chunk.js.map": "/Mobishaala/static/js/reactPlayerKaltura.fb96452a.chunk.js.map",
+    "reactPlayerFilePlayer.90886709.chunk.js.map": "/Mobishaala/static/js/reactPlayerFilePlayer.90886709.chunk.js.map",
+    "reactPlayerPreview.3f4ccd11.chunk.js.map": "/Mobishaala/static/js/reactPlayerPreview.3f4ccd11.chunk.js.map",
+    "453.6e15ef79.chunk.js.map": "/Mobishaala/static/js/453.6e15ef79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f580d6.css",
+    "static/js/main.559ef179.js"
+  ]
+}
